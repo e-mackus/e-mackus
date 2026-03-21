@@ -49,24 +49,32 @@ Gosto de transformar problemas em sistemas funcionais e estou em constante evolu
 
 ## 📊 Estatísticas
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=e-mackus&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=e-mackus&theme=tokyonight&hide_border=true" />
-</p>
+## 📊 Estatísticas
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=e-mackus&show_icons=true&theme=dracula&hide_border=true" />
+    </td>
+    <td align="center" width="50%">
+      <img width="100%" src="https://streak-stats.demolab.com?user=e-mackus&theme=dracula&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-mackus&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-mackusE&layout=compact&theme=dracula&hide_border=true" />
 </p>
 
 ---
 
 ## 🔥 Destaques
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Suporte%20TI-Experiência-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Infraestrutura-Hands%20On-6A5ACD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend-Aprendizado%20ativo-2E8B57?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Resolução%20de%20Problemas-Foco-FF8C00?style=for-the-badge" />
+<p>
+<img src="https://img.shields.io/badge/Suporte%20TI-Experiência-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Infraestrutura-Hands%20On-6A5ACD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Resolução%20de%20Problemas-Foco-FF8C00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JS-1E90FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Backend-PHP%20%7C%20MySQL%20%7C%20APIs-2E8B57?style=for-the-badge" />
 </p>
 
 ---
