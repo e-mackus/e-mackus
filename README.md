@@ -63,7 +63,7 @@ Gosto de transformar problemas em sistemas funcionais e estou em constante evolu
 </table>
 
 <p align="center">
-  <img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-mackusE&layout=compact&theme=dracula&hide_border=true" />
+  <img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-mackus&layout=compact&theme=dracula&hide_border=true" />
 </p>
 
 ---
