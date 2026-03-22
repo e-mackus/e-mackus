@@ -47,7 +47,6 @@ Gosto de transformar problemas em sistemas funcionais e estou em constante evolu
 
 ---
 
-## 📊 Estatísticas
 
 ## 📊 Estatísticas
 
